@@ -14,7 +14,7 @@ h1{
     padding-left: 2%;
 }
 .half-width img{
-    width: 100%;
+    width: 90%;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
@@ -22,5 +22,12 @@ h1{
 }
 section{
     height: 500px;
+}
+.link_here{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 7px 15px;
+    color: rgb(175, 33, 33);
+    border-radius: 5px;
 }
 
